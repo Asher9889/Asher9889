@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Saurabh Kushwaha and I am from Kanpur , India.
 
 # 💫 About Me:
-🔭 I’m currently working on Thread App<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Three.js<br>⚡ Fun fact transitioning tech to non-tech
+🔭 I’m currently working on Thread App<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Three.js<br>⚡ Fun fact transitioning non-tech to tech
  
 
 # 💻 Tech Stack:
